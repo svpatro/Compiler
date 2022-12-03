@@ -13,6 +13,22 @@ In essense, a compiler has these elements:
 
 Quite frankly, I have no clue what the majority of these terms mean yet, so I will define them below: 
 
-Parsing - 
+**Parsing** - 
 
 
+
+
+**Resolution of References** - 
+
+
+**Semantic Evaluation** - 
+
+
+
+**Equivalent Transformation** - 
+
+**High Level Optimization** - 
+
+**Code Generation** - 
+
+**Peephole Optimization** - 
