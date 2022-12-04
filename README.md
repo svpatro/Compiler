@@ -11,7 +11,7 @@ In essense, a compiler has these elements:
 - Code Generation
 - Peephole Optimization
 
-# TERMINOLOGY:
+# Terminology Breakdown:
 
 ### Parsing:
 
@@ -19,19 +19,16 @@ In essense, a compiler has these elements:
 
 In English, we use `Subject -> Verb -> Object`
 
-example: `She (subject) planted (verb) seeds (object).`
+Example: `She (subject) planted (verb) seeds (object).`
 
-**Resolution of References** - 
+# Resolution of References 
 
+# Semantic Evaluation 
 
-**Semantic Evaluation** - 
+# Equivalent Transformation
 
+# High Level Optimization 
 
+# Code Generation
 
-**Equivalent Transformation** - 
-
-**High Level Optimization** - 
-
-**Code Generation** - 
-
-**Peephole Optimization** - 
+# Peephole Optimization 
