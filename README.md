@@ -21,14 +21,14 @@ In English, we use `Subject -> Verb -> Object`
 
 Example: `She (subject) planted (verb) seeds (object).`
 
-# Resolution of References 
+### Resolution of References 
 
-# Semantic Evaluation 
+### Semantic Evaluation 
 
-# Equivalent Transformation
+### Equivalent Transformation
 
-# High Level Optimization 
+### High Level Optimization 
 
-# Code Generation
+### Code Generation
 
-# Peephole Optimization 
+### Peephole Optimization 
