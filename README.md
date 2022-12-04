@@ -19,7 +19,7 @@ In essense, a compiler has these elements:
 
 In English, we use `Subject -> Verb -> Object`
 
-example: She (subject) planted (verb) seeds (object).
+example: `She (subject) planted (verb) seeds (object).`
 
 **Resolution of References** - 
 
