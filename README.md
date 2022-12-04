@@ -11,7 +11,8 @@ In essense, a compiler has these elements:
 - Code Generation
 - Peephole Optimization
 
-Quite frankly, I have no clue what the majority of these terms mean yet, so I will define them below: 
+## TERMINOLOGY:
+------
 
 **Parsing** - Breaking down and categorizing language into its components. 
 
