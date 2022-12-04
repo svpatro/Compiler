@@ -13,10 +13,11 @@ In essense, a compiler has these elements:
 
 Quite frankly, I have no clue what the majority of these terms mean yet, so I will define them below: 
 
-**Parsing** - 
+**Parsing** - Breaking down and categorizing language into its components. 
 
+In English, we use Subject -> Verb -> Object 
 
-
+example: `She (subject) planted (verb) seeds (object)`
 
 **Resolution of References** - 
 
