@@ -11,9 +11,11 @@ In essense, a compiler has these elements:
 - Code Generation
 - Peephole Optimization
 
-## TERMINOLOGY:
+# TERMINOLOGY:
 
-**Parsing** - Breaking down and categorizing language into its components. 
+### Parsing 
+
+> To break down and categorizing language into its components. 
 
 In English, we use Subject -> Verb -> Object 
 
