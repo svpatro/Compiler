@@ -2,6 +2,11 @@
 
 For this project, I am attempting to learn the in's and out's of compilers. 
 
+# How To Run
+
+
+# Documentation
+
 In essense, a compiler has these elements: 
 
 - Parsing
