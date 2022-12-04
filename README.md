@@ -12,7 +12,6 @@ In essense, a compiler has these elements:
 - Peephole Optimization
 
 ## TERMINOLOGY:
-------
 
 **Parsing** - Breaking down and categorizing language into its components. 
 
