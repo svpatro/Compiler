@@ -21,14 +21,20 @@ In English, we use `Subject -> Verb -> Object`
 
 Example: `She (subject) planted (verb) seeds (object).`
 
-### Resolution of References 
+### Resolution of References:
 
-### Semantic Evaluation 
+### Semantic Evaluation: 
 
-### Equivalent Transformation
+> Syntax is the concept that concerns itself only where or not the sentence is valid for the grammar of the langauge. Symantics, however, is about whether the sentence has a valid meaning. 
 
-### High Level Optimization 
+In other words, syntax is concern about the stucture of the language whereas symantics is concern about whether the language makes sense. 
 
-### Code Generation
+By reason, we can conclude that semantic evaluation is the process of determining whether the language makes sense in context. 
 
-### Peephole Optimization 
+### Equivalent Transformation:
+
+### High Level Optimization:
+
+### Code Generation:
+
+### Peephole Optimization:
