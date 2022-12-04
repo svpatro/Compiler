@@ -13,13 +13,13 @@ In essense, a compiler has these elements:
 
 # TERMINOLOGY:
 
-### Parsing 
+### Parsing:
 
-> To break down and categorizing language into its components. 
+> To break down and categorizing language into its individual components. 
 
-In English, we use Subject -> Verb -> Object 
+In English, we use `Subject -> Verb -> Object`
 
-example: `She (subject) planted (verb) seeds (object)`
+example: She (subject) planted (verb) seeds (object).
 
 **Resolution of References** - 
 
