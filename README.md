@@ -1,6 +1,6 @@
 # Compiler
 
-For this project, I am attempting to learn the in's and out's of compilers. 
+For this project, I am attempting to learn the in's and out's of compilers with reference to Google's Carbon Language. 
 
 # How To Run
 
