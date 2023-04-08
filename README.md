@@ -1,6 +1,6 @@
-# Compiler
+#Compiler
 
-For this project, I am attempting to learn the in's and out's of compilers with reference to Google's Carbon Language. 
+For this project, I am attempting to learn the in's and out's of compilers.
 
 # How To Run
 
@@ -9,16 +9,15 @@ For this project, I am attempting to learn the in's and out's of compilers with 
 
 In essense, a compiler has these elements: 
 
-- Parsing
-- Resolution of References to other Modules
-- Semantic Validation
-- Equivalent Transformation & High-Level Optimization
+- Lexical Analysis
+- Syntax Analysis
+- Semantic Analysis
 - Code Generation
-- Peephole Optimization
+- Code Optimization
 
 # Terminology Breakdown:
 
-### Parsing:
+### Lexical Analysis:
 
 > To break down and categorizing language into its individual components. 
 
@@ -26,7 +25,7 @@ In English, we use `Subject -> Verb -> Object`
 
 Example: `She (subject) planted (verb) seeds (object).`
 
-### Resolution of References:
+### Syntactic Analysis
 
 ### Semantic Evaluation: 
 
@@ -36,10 +35,7 @@ In other words, syntax is concern about the stucture of the language whereas sym
 
 By reason, we can conclude that semantic evaluation is the process of determining whether the language makes sense in context. 
 
-### Equivalent Transformation:
-
-### High Level Optimization:
-
 ### Code Generation:
 
-### Peephole Optimization:
+### Code Optimization:
+
