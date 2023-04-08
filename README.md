@@ -4,6 +4,9 @@ For this project, I am attempting to learn the in's and out's of compilers.
 
 # How To Run
 
+To compile the project, run `make compiler`
+
+To run the project, run `./compiler`
 
 # Documentation
 
