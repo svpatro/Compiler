@@ -1,0 +1,4 @@
+# Custom Exclusions
+
+*.gch
+a.out
