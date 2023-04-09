@@ -1,9 +1,22 @@
 #include <iostream>
 #include <string>
-#include <lexicalAnalyzer.h>
+#include "lexicalAnalyzer.h"
 
-Analyzer::analyzer(){
+Analyzer::Analyzer(std::string stringToAnalyze){
 
-	std::cout << "Constructor called" << std::endl;
+	this->stringToAnalyze = stringToAnalyze;
 
 }
+
+void Analyzer::print(){
+
+	std::cout << stringToAnalyze << std::endl;
+
+}
+
+void Analyzer::input(std::string){
+
+	
+
+}
+
