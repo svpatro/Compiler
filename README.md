@@ -28,7 +28,7 @@ To be more specific: we search for keywords (aka "parsing"), translate the keywo
 
 At this point, you are abstracting the sentence one level up into its constituent parts (e.g. a sentence transforms into a series of verbs, objects, nouns, etc.)
 
-### Syntactic Analysis
+### Syntactic Analysis:
 
 > The syntax of a language is the rules that one must obey when constructing sentences. Given a set of words, how can you formulate sentences (regardless of their meaning) given the rules of the language?
 
