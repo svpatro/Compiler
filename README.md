@@ -36,7 +36,11 @@ In English, we use `Subject -> Verb -> Object`
 
 Example: `She (subject) planted (verb) seeds (object).`
 
-There do exist languages that follow other word orders, however. Subject-Verb-Object (SVO) agreement is actually the 2nd most common word order, with the most common being the Subject-Object-Verb (SOV) word order.
+Keep in mind, there does exist languages that follow other word orders. Subject-Verb-Object (SVO) agreement is the second most common word order, with the most common being the Subject-Object-Verb (SOV) word order.
+
+Examples of SOV langauges: Hindi, Japanese, Latin, Ancient Greek, Korean, Turkish
+
+Examples of SVO languages: Romance Langauges (English, Spanish, French, Italian, Portuguese), Chinese, Vietnamese, Thai, etc.
 
 
 ### Semantic Evaluation: 
