@@ -24,11 +24,20 @@ In essense, a compiler has these elements:
 
 > To break down and categorizing language into its individual components. 
 
+To be more specific: we search for keywords (aka "parsing"), translate the keywords into tokens (aka "tokenizing"), and analyze the tokens for meaningful actions. 
+
+At this point, you are abstracting the sentence one level up into its constituent parts (e.g. a sentence transforms into a series of verbs, objects, nouns, etc.)
+
+### Syntactic Analysis
+
+> The syntax of a language is the rules that one must obey when constructing sentences. Given a set of words, how can you formulate sentences (regardless of their meaning) given the rules of the language?
+
 In English, we use `Subject -> Verb -> Object`
 
 Example: `She (subject) planted (verb) seeds (object).`
 
-### Syntactic Analysis
+There do exist languages that follow other word orders, however. Subject-Verb-Object (SVO) agreement is actually the 2nd most common word order, with the most common being the Subject-Object-Verb (SOV) word order.
+
 
 ### Semantic Evaluation: 
 
