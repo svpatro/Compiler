@@ -55,3 +55,7 @@ By reason, we can conclude that semantic evaluation is the process of determinin
 
 ### Code Optimization:
 
+### Pragmatics (Bonus):
+> If syntax is to grammar as semantics is to meaning, then pragmatics is applying context to both the grammar and meaning. 
+
+As a little linguistic bonus, I wanted to include the concept of pragmatics. Unique contexts can contribute to the meaning of the overall sentence. In the case of computer science, this would be known as the scope or the namespace.
