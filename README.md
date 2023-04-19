@@ -53,9 +53,16 @@ By reason, we can conclude that semantic evaluation is the process of determinin
 
 ### Code Generation:
 
+> Now that we know how the sentance is constructed, let's translate it to a machine-friendly language. 
+
+The essence of compiling lies within code generation. How can we map one set of keywords in one language to another set of keywords in another language? This is the challenge that we face with code generation. 
+
 ### Code Optimization:
 
-### Pragmatics (Bonus):
-> If syntax is to grammar as semantics is to meaning, then pragmatics is applying context to both the grammar and meaning. 
+> You can express yourself in a variety of ways; However, Let's not beat around the bush here, we don't want your life story.
 
-As a little linguistic bonus, I wanted to include the concept of pragmatics. Unique contexts can contribute to the meaning of the overall sentence. In the case of computer science, this would be known as the scope or the namespace.
+There are a million ways to overcomplicate the same thing. However, we don't have all day, so code optimization allows us to reduce the size of our code while still maintaining the same impact. To optimize, it is important that we understand the concept of computational complexity, aka big-O, big-Omega, or big-Theta notation. 
+
+### Pragmatics, Morphology, Phonology (Bonus):
+
+As a little linguistic bonus, I wanted to include the concepts of pragmatics, morphology, and phonology. Pragmatics is the study of how unique contexts can contribute to the meaning of the overall sentence. In the case of computer science, this would be known as the scope or the namespace. Morphology is the study of word structure and construction (i.e. syllables). This branch of linguistics concerns itself with roots and endings in languages. Finally, Phonology concerns itself with the sounds of the language (i.e. intonation or inflection). Indeed, the way your tongue situates itself when pronouncing a word can certainly be studied. 
